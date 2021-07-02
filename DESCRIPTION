@@ -1,0 +1,17 @@
+Package: ISLR
+Type: Package
+Title: Data for an Introduction to Statistical Learning with
+        Applications in R
+Version: 1.3
+Date: 2020-06-16
+Author: Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani
+Maintainer: Daniela Witten <dwitten@uw.edu>
+Suggests: MASS
+Description: We provide the collection of data-sets used in the book 'An Introduction to Statistical Learning with Applications in R'.
+Depends: R (>= 3.5.0)
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+URL: http://www.StatLearning.com
+NeedsCompilation: no
+Packaged: 2020-08-15 22:59:14 UTC; hastie
